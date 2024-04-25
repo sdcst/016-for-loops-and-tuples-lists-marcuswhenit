@@ -23,3 +23,5 @@ That name is on the list
 """
 
 nameList = ("Lebron","Kobe","Michale","Shaq","Dennis")
+
+x = input("string n um")
